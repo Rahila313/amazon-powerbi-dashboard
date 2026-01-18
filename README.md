@@ -1,4 +1,4 @@
-# Amazon Product Review Insights 📊
+# Amazon Product Review Insights 
 
 ## Project Overview
 This project presents an interactive **Power BI dashboard** analyzing Amazon product reviews to understand customer behavior, rating trends, and product category performance.  
