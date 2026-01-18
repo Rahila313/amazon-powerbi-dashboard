@@ -42,8 +42,9 @@ The dataset contains Amazon product-level information including:
 - `Amazon_Product_Review_Insights.pbix` – Power BI dashboard file
 - `/screenshots` – Dashboard visuals and key charts
 
-## Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+## Dashboard Screenshot
+![Power BI Dashboard](assets/Dashboard%20PNG.png)
+
 
 ## Key Business Insights
 - Most Amazon products maintain high customer ratings above 4.0.
