@@ -45,5 +45,12 @@ The dataset contains Amazon product-level information including:
 ## Dashboard Preview
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 
+## Key Business Insights
+- Most Amazon products maintain high customer ratings above 4.0.
+- Categories with higher review volume are not always the highest-rated.
+- Review distribution is heavily concentrated between 4.0–4.5 stars.
+- Popular categories indicate strong customer engagement and demand.
+
+
 
 
