@@ -38,10 +38,6 @@ The dataset contains Amazon product-level information including:
 
 *(Dataset used for educational and portfolio purposes.)*
 
-## Project Files
-- `Amazon_Product_Review_Insights.pbix` – Power BI dashboard file
-- `/screenshots` – Dashboard visuals and key charts
-
 ## Dashboard Screenshot
 ![Power BI Dashboard](assets/Dashboard%20PNG.png)
 
