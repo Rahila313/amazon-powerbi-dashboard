@@ -1,8 +1,8 @@
 # Amazon Product Review Insights 
 
 ## Project Overview
-This project presents an interactive **Power BI dashboard** analyzing Amazon product reviews to understand customer behavior, rating trends, and product category performance.  
-The dashboard focuses on how **ratings and review volume vary across product types** and provides high-level KPIs for business decision-making.
+This project presents an **Power BI dashboard** analyzing Amazon product reviews to understand customer behavior, rating trends, and product category performance.  
+The dashboard focuses on how **ratings and review volume vary across product types** and provides KPIs for business decision-making.
 
 ## Key KPIs
 - **Total Products:** 1,351  
